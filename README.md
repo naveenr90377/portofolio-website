@@ -25,7 +25,7 @@ Feel free to connect with me:
 - LinkedIn
 
 ## 🔗 Live Demo
-(Add your GitHub Pages link here after hosting)
+https://naveenr90377.github.io/portofolio-website/
 
 ---
 
